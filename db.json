@@ -1,4 +1,7 @@
-[
-  { "id": 1, "title": "Order 1", "productDesc": "Blanco CPC 30 R Cemex 50 kg", "loadQuantity": "30", "programmedOrderDateTime": "13/03/2018", "pointOfDelivery": "Dirección 1" },
-  { "id": 2, "title": "Order 2", "productDesc": "Blanco CPC 30 R Cemex 50 kg", "loadQuantity": "30", "programmedOrderDateTime": "14/03/2018", "pointOfDelivery": "Dirección 2" }
-]
+{
+  "orders":
+  [
+    { "id": 1, "title": "Order 1", "productDesc": "Blanco CPC 30 R Cemex 50 kg", "loadQuantity": "30", "programmedOrderDateTime": "13/03/2018", "pointOfDelivery": "Dirección 1" },
+    { "id": 2, "title": "Order 2", "productDesc": "Blanco CPC 30 R Cemex 50 kg", "loadQuantity": "30", "programmedOrderDateTime": "14/03/2018", "pointOfDelivery": "Dirección 2" }
+  ]
+}
